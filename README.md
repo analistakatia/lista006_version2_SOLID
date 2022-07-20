@@ -1,0 +1,1 @@
+# lista006_version2_SOLID
